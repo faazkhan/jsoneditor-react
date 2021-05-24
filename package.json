@@ -53,7 +53,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0",
     "eslint-plugin-react-hooks": "^2.3.0",
-    "jsoneditor": "^9.0.0",
+    "jsoneditor": "git+https://github.com/faazkhan/jsoneditor.git",
     "react": "^16.10.2",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
